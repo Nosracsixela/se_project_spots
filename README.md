@@ -1,21 +1,32 @@
-# Project 3: Spots
+# Spots - Social Media Web Application
 
-### Overview  
+![Screenshot of Application](./images/demo/SS_Spots.png)
 
-* Intro  
-* Figma  
-* Images  
-  
-**Intro**
-  
-This project is made so all the elements are displayed correctly on popular screen sizes. We recommend investing more time in completing this project, since it's more difficult than previous ones.  
-  
-**Figma**  
-  
-* [Link to the project on Figma](https://www.figma.com/file/BBNm2bC3lj8QQMHlnqRsga/Sprint-3-Project-%E2%80%94-Spots?type=design&node-id=2%3A60&mode=design&t=afgNFybdorZO6cQo-1)
-  
-**Images**  
-  
-The way you'll do this at work is by exporting images directly from Figma — we recommend doing that to practice more. Don't forget to optimize them [here](https://tinypng.com/), so your project loads faster. 
-  
-Good luck and have fun!
+Live Demo: [Spots](https://nosracsixela.github.io/se_project_spots/)
+
+This is the third project of the Software Engineering program at TripleTen. It was created using HTML and CSS, based on the design brief on Figma.
+
+## Overview
+
+Spots is a social media web application where users can upload and remove photos, like others' posts, and make small profile updates. Designed for seamless interaction, the platform encourages user engagement through a simple, photo-focused interface.
+
+### Project features
+
+- User Interactions: Add, remove, and like photos
+- Profile Customization: Edit profile details
+- Responsive Design: Optimized for various screen sizes
+- Semantic HTML5: Ensures proper content structure
+- BEM Methodology: Consistent and modular CSS
+- CSS grid layout
+- Flexbox
+- Positioning
+
+**Figma**
+
+- [Link to the project on Figma](https://www.figma.com/file/BBNm2bC3lj8QQMHlnqRsga/Sprint-3-Project-%E2%80%94-Spots?type=design&node-id=2%3A60&mode=design&t=afgNFybdorZO6cQo-1)
+
+#### Future Improvements
+
+- Add user authentication
+- Implement comment sections
+- Expand profile settings
