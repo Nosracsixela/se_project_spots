@@ -4,7 +4,7 @@
 
 Live Demo: [Spots](https://nosracsixela.github.io/se_project_spots/)
 
-Video description of project: https://drive.google.com/file/d/1A24WLmH7H3_NJU9NbOIhMVKUClfdZhxk/view?usp=drive_link
+Video description of project: 
 
 This is the third project of the Software Engineering program at TripleTen. It was created using HTML and CSS, based on the design brief on Figma.
 
